@@ -10,4 +10,4 @@ n_classes: number of classes present in the dataset
 k: maxium number of neighboring nodes to consider
 result: array to hold the predictions
 */
-__global__ void KNN_cuda_improved(float *data, float *labels, int data_n_examples, float *predict, int predict_n_examples, int n_features, int n_classes, int k, float *result);
+__global__ void kudaNN(float *data, float *labels, int data_n_examples, float *predict, int predict_n_examples, int n_features, int n_classes, int k, float *result);

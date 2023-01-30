@@ -27,7 +27,7 @@ __device__ float euclidianDistance(float *a, float *b, int width) {
 }
 
 
-__global__ void KNN_cuda_improved(float *data, float *labels, int data_n_examples, float *predict, int predict_n_examples, int n_features, int n_classes, int k, float *result)
+__global__ void kudaNN(float *data, float *labels, int data_n_examples, float *predict, int predict_n_examples, int n_features, int n_classes, int k, float *result)
 {
 
     // array to hold all (test, train) pair distances
