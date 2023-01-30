@@ -4,7 +4,7 @@ This work was done in the context of my end-of-semester HPC mini-project. The go
 
 ## Prerequisits:
 A CUDA capable GPU  
-The CUDA programming suite (learn more about setting up a CUDA development environment here:)
+The CUDA programming suite (learn more about setting up a CUDA development environment [here](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/))
 
 ## How to use
 Put the source and header files in your project directory.  
