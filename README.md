@@ -4,7 +4,7 @@ This work was done in the context of my end-of-semester HPC mini-project. The go
 
 ## Prerequisits:
 <ul>
-<li>A CUDA capable GPU<li> 
+<li>A CUDA capable GPU</li> 
 <li>The CUDA programming suite (learn more about setting up a CUDA development environment [here](https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/))</li>
 </ul>
 
